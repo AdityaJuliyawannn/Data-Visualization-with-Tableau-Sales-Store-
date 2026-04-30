@@ -6,3 +6,6 @@ This project presents a data visualization dashboard built using Tableau to anal
 1. Open the Tableau dashboard file (.twbx)
 2. Explore the interactive filters (region, category, date)
 3. Analyze the visualizations to gain insights
+
+Overview
+![Uploading Screenshot 2026-04-30 232701.png…]()
