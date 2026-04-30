@@ -9,4 +9,4 @@ This project presents a data visualization dashboard built using Tableau to anal
 
 Overview
 
-![Uploading Screenshot 2026-04-30 232701.png…]()
+<img width="1697" height="893" alt="Screenshot 2026-04-30 232701" src="https://github.com/user-attachments/assets/93cd28e0-8090-40cb-a3e9-90fb3eec3e89" />
